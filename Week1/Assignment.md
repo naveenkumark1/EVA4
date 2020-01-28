@@ -1,6 +1,6 @@
 # Assignment
 
-## 1) What are Channels and Kernels (according to EVA)?
+## 1) What are Channels and Kernels ?
 
 Channel : It is a layer with collection of similar type of features
 
